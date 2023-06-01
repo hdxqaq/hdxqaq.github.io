@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>hdxqaq 的个人博客</title>
+    <link>https://hdxqaq.github.io</link>
+    <atom:link href="https://hdxqaq.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>记录精彩的程序人生</description>
+    <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
+    <lastBuildDate>Thu, 01 Jun 2023 13:04:14 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>Linux系统安装Docker</title>
+      <link>https://hdxqaq.github.io/Linux-an-zhuang-Docker</link>
+      <description/>
+      <author>hdxqaq</author>
+      <guid>https://hdxqaq.github.io/Linux-an-zhuang-Docker</guid>
+      <category>Solo</category>
+      <pubDate>Thu, 01 Jun 2023 12:59:25 +0800</pubDate>
+    </item>
+    <item>
+      <title>Linux命令</title>
+      <link>https://hdxqaq.github.io/linux-ming-ling</link>
+      <description/>
+      <author>hdxqaq</author>
+      <guid>https://hdxqaq.github.io/linux-ming-ling</guid>
+      <category>Solo</category>
+      <pubDate>Thu, 01 Jun 2023 12:57:03 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
